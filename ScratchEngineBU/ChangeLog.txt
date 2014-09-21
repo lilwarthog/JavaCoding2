@@ -1,0 +1,4 @@
+Rewrote many classes in shape package
+Fixed ViewTo direction to have shape in the middle of the screen
+Added sorting to objects using painters algorithm
+Color is completly fixed and working
